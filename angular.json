@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cisco-app"
+    }
+  },
+  "defaultProject": "cisco-app",
+  "cli": {
+    "analytics": "08208229-7a76-4ce0-abf4-a5eea2d9047d"
+  }
 }
